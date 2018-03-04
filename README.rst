@@ -1,13 +1,13 @@
 ven
 ===
 
-.. image:: https://pypip.in/d/ven/badge.png
+.. image:: https://img.shields.io/pypi/dm/ven.svg
         :target: https://pypi.python.org/pypi/ven/
 
-.. image:: https://pypip.in/v/ven/badge.png
+.. image:: https://img.shields.io/pypi/v/ven.svg
         :target: https://pypi.python.org/pypi/ven/
 
-.. image:: https://pypip.in/license/ven/badge.png
+.. image:: https://img.shields.io/pypi/l/ven.svg
         :target: https://pypi.python.org/pypi/ven/
 
 Easy way to use virtualenv.
